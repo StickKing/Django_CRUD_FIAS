@@ -16,5 +16,6 @@
 <img width="707" alt="Снимок экрана 2023-01-26 в 13 33 57" src="https://user-images.githubusercontent.com/32791930/214818220-faf47174-72ea-4960-8fac-13f32b58bf22.png">
 
 Изменение:
+
 <img width="707" alt="Снимок экрана 2023-01-26 в 13 34 07" src="https://user-images.githubusercontent.com/32791930/214818337-1f7c64ff-bed3-4418-b75a-78c809641bab.png">
 
