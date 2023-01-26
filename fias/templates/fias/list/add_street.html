@@ -1,0 +1,33 @@
+{% extends 'fias/list/base.html' %}
+{% load static %}
+
+{% block title %}
+    Добавить
+{% endblock %}
+
+{% block content %}
+
+<div class="container py-5">
+    <div class="row align-items-start">
+      <div class="col">
+      </div>
+      <div class="col">
+
+        <form method="post" action = "/Street/">
+          {% csrf_token %}
+          <h3 class="text-light">Добавление улицы</h3>
+          {{ added_form }}
+
+          <input class = "btn btn-primary" type = "submit" value = "Сохранить" >
+        </form>
+
+        
+        
+      </div>
+      <div class="col">
+      </div>
+    </div>
+    
+</div>
+
+{% endblock %}
